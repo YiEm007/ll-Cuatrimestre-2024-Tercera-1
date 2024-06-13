@@ -1,0 +1,16 @@
+/* Este código es para eliminar cualquier estilo existente */
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.menu-izquierda {
+
+    background: coral;
+    width: 100%;
+    height: 200px;
+
+
+}
